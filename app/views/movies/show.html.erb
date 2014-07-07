@@ -1,0 +1,127 @@
+<article id="movie" class="movie">
+  <header>
+    <%= image_for(@movie) %>
+    <h1><%= @movie.title %></h1>
+    <h2>Released: <%= @movie.released_on %></h2>
+  </header>
+
+  <p>
+    <%= @movie.description %>
+  </p>
+  
+  <h3 class="no-rule">
+    <%= @movie.rating %> &bull; <%= @movie.duration %> 
+  </h3>
+  
+  <h3>Cast</h3>
+  <p>
+    <%= @movie.cast %>
+  </p>
+  
+  <h3>Director</h3>
+  <p>
+    <%= @movie.director %>
+  </p>
+  
+  <h3>Total Gross</h3>
+  <p>
+    <%= format_total_gross(@movie) %>
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <%= form_for([@movie, @review]) do |f| %>
+      <%= f.hidden_field :movie_id %>
+      <%#= @review.errors.full_messages.to_sentence %>
+      <%= render 'shared/errors', object: @review %>
+      <fieldset>
+        <ol>
+          <li class="required">
+            <%= f.label :name %>
+            <%= f.text_field :name, autofocus: true %>
+          </li>
+          <li class="required">
+            <%= f.label :comment %>
+            <%= f.text_area :comment, cols: 40, rows: 7 %>
+          </li>
+          <li class="required">
+            <%= f.label :stars %>
+            <%= f.select :stars, Review::STARS, prompt: "Pick one" %>
+          </li>
+          <li class="required stars">
+            <%= f.label :stars %>
+            <% Review::STARS.each do |star| %>
+            <span class="star">
+            <%= f.radio_button :stars, star %>
+              <%= star %>
+            </span>
+            <% end %>
+          </li>
+
+        </ol>
+        <p>
+          <%= f.submit %>
+          <%= link_to "Annuler", movie_path(@movie), class: 'button' %>
+        </p>
+      </fieldset>
+  <% end %>
+
+
+  <ol id="reviews">
+    <% @reviews.each do |review| %>
+        <li>
+          <span class="review"><%= pluralize(review.stars, 'star') %></span>
+          <span class="user">by <%= review.name %></span>
+          <span class="date"><%= time_ago_in_words(review.created_at) %> ago</span>
+          <p>
+            &quot;<%= review.comment %>&quot;
+          </p>
+        </li>
+    <% end %>
+  </ol>
+
+
+
+
+
+
+
+
+
+  <footer>
+    <nav>
+      <%= link_to 'Edit', edit_movie_path(@movie), class: 'button' %>
+      <%= link_to 'Delete', @movie, 
+                  class: 'button',
+                  method: :delete, data: { confirm: 'Are you sure?' } %>
+      <%= link_to "Reviews", movie_reviews_path(@movie), class: 'button' %>
+      <%= link_to 'Add New Review', new_movie_review_path(@movie), class: 'button' %>
+    </nav>
+  </footer>
+</article>
