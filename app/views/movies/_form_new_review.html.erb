@@ -1,9 +1,13 @@
+
 <%= form_for([@movie, @review]) do |f| %>
+    <% @review.movie_id %>
+    <%# = f.hidden_field :movie_id %>
     <%#= @review.errors.full_messages.to_sentence %>
     <%= render 'shared/errors', object: @review %>
     <fieldset>
-      <strong>Le formulaire vient de: /reviews/_form.html.erb</strong>
-      <h2>Créer un review pour : <%=  @movie.title  %> </h2>
+      <p>Le formulaire vient de: /movies/_form_new_review.html.erb</p>
+      <h2>Créer un review ?</h2>
+
       <ol>
         <li class="required">
           <%= f.label :name %>

@@ -5,11 +5,8 @@ class MoviesController < ApplicationController
 
   def show
     @movie = Movie.find(params[:id])
-    #@rewiew = @movie.reviews.new
-    #@review = @movie
-   # @review = Review.find_by(params[:id]) # => affiche les commentaires liés au film
-   # @review = @movie.reviews.find(params[:id])
     @review=Review.new({:movie_id => @movie.id})
+
     @reviews = @movie.reviews
   end
   

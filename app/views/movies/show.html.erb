@@ -28,39 +28,19 @@
     <%= format_total_gross(@movie) %>
   </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<%= render('reviews/form') %>
+<%= render('movies/form_new_review') %>
 
 
   <%= form_for([@movie, @review]) do |f| %>
-      <%= f.hidden_field :movie_id %>
+      <% @review.movie_id %>
+      <%# = f.hidden_field :movie_id %>
       <%#= @review.errors.full_messages.to_sentence %>
       <%= render 'shared/errors', object: @review %>
       <fieldset>
+        <p>Le formulaire est intégré à: /movies/show.html.erb</p>
+        <h2>Créer un review ?</h2>
+
         <ol>
           <li class="required">
             <%= f.label :name %>
@@ -93,6 +73,7 @@
   <% end %>
 
 
+
   <ol id="reviews">
     <% @reviews.each do |review| %>
         <li>
@@ -105,13 +86,6 @@
         </li>
     <% end %>
   </ol>
-
-
-
-
-
-
-
 
 
   <footer>
