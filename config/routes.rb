@@ -4,5 +4,5 @@ Flix::Application.routes.draw do
   get     "page01"      =>     "page01#index"
   resources :movies do
     resources :reviews
-      end
+    end
 end
