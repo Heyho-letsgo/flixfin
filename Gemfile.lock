@@ -93,6 +93,7 @@ GEM
     multi_json (1.10.1)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
+    pg (0.17.1)
     polyglot (0.3.5)
     posix-spawn (0.3.8)
     pry (0.9.12.6)
@@ -192,6 +193,7 @@ DEPENDENCIES
   jazz_hands
   jbuilder (~> 1.2)
   jquery-rails
+  pg
   rails (= 4.0.5)
   rspec-rails (= 2.13.1)
   sass-rails (~> 4.0.2)
