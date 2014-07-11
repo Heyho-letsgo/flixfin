@@ -46,6 +46,8 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'jazz_hands'
+gem "paperclip", "~> 4.1"
+gem 'aws-sdk', '~> 1.47.0'
 
 group :test, :development do
   gem "rspec-rails", "2.13.1"

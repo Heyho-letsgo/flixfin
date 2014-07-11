@@ -27,9 +27,10 @@
   <p>
     <%= format_total_gross(@movie) %>
   </p>
-
-<%= render('reviews/form') %>
-<%= render('movies/form_new_review') %>
+<!-- Test pour insérer les formulaires d'ailleurs
+<%# = render('reviews/form') %>
+<%# = render('movies/form_new_review') %>
+-->
 
 
   <%= form_for([@movie, @review]) do |f| %>
@@ -38,8 +39,7 @@
       <%#= @review.errors.full_messages.to_sentence %>
       <%= render 'shared/errors', object: @review %>
       <fieldset>
-        <p>Le formulaire est intégré à: /movies/show.html.erb</p>
-        <h2>Créer un review ?</h2>
+                <h2>Créer un review ?</h2>
 
         <ol>
           <li class="required">

@@ -314,10 +314,13 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord-deprecated_finders (v1.0.3, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.0.5, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="awesome_print (v1.2.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="aws-sdk (v1.47.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.1.4, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.6.3, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="capybara (v2.1.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="climate_control (v0.0.3, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cocaine (v0.5.4, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.0.1, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.2.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
@@ -346,6 +349,7 @@
     <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.10.1, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.2.1, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="paperclip (v4.2.0, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="polyglot (v0.3.5, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="posix-spawn (v0.3.8, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pry (v0.9.12.6, RVM: ruby-2.0.0-p481 [global]) [gem]" level="application" />
