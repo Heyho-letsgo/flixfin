@@ -84,9 +84,9 @@ Flix::Application.configure do
       :url => ':s3_domain_url',
       :path => '/:class/:attachment/:id_partition/:style/:filename',
       :s3_credentials => {
-          :bucket => ENV['AWS_BUCKET'],
-          :access_key_id => ENV['AWS_ACCESS_KEY_ID'],
-          :secret_access_key => ENV['AWS_SECRET_ACCESS_KEY']
+          :bucket => ENV['eurobucketirlande'],
+          :access_key_id => ENV['AKIAJO7NLORYOOTKICUA'],
+          :secret_access_key => ENV['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']
       }
   }
 
