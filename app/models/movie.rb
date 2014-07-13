@@ -19,7 +19,10 @@ has_many :reviews, dependent: :destroy
   validates :rating, inclusion: { in: RATINGS }
 
   # Validation de l'image avec paperclip
-  has_attached_file :image
+  has_attached_file :image, styles:{
+      small: '90x133>',
+      thumb: "50x50>"
+  }
   validates_attachment :image,
                        :content_type => { :content_type => ['image/jpeg', 'image/png'] },
                        :size => { :less_than => 1.megabyte }
