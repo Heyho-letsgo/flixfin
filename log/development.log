@@ -42030,3 +42030,807 @@ Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 13:06:38 +02
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 13:06:38 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+Processing by AccueilController#index as HTML
+  Rendered accueil/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_header.html.erb (6.5ms)
+  Rendered layouts/_flashes.html.erb (0.1ms)
+  Rendered layouts/_sidebar.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 20ms (Views: 19.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/elements.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/movies.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/buttons.css?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/movies.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/add.png" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/arrow.png" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-07-13 13:10:44 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+Processing by AccueilController#index as HTML
+  Rendered accueil/index.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (7.2ms)
+  Rendered layouts/_flashes.html.erb (0.1ms)
+  Rendered layouts/_sidebar.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/elements.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/movies.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/buttons.css?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/movies.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/arrow.png" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+
+
+Started GET "/assets/add.png" for 127.0.0.1 at 2014-07-13 13:11:37 +0200
+  [1m[36m (0.2ms)[0m  [1mSELECT "movies"."title" FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT comments FROM "movies"
+SQLite3::SQLException: no such column: comments: SELECT comments FROM "movies"
+  [1m[36m (0.2ms)[0m  [1mSELECT comment FROM "movies"[0m
+SQLite3::SQLException: no such column: comment: SELECT comment FROM "movies"
+  [1m[36m (2.0ms)[0m  [1mSELECT total_gross FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT total_gross FROM "movies"
+  [1m[36m (0.3ms)[0m  [1mSELECT MIN("movies"."total_gross") AS min_id FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT MIN("movies"."total_gross") AS min_id FROM "movies"
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("movies"."total_gross") AS avg_id FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT AVG("movies"."total_gross") AS avg_id FROM "movies"
+  [1m[36m (0.2ms)[0m  [1mSELECT AVG("movies"."total_gross") AS avg_id FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT AVG("movies"."total_gross") AS avg_id FROM "movies"
+  [1m[36m (0.3ms)[0m  [1mSELECT MIN("movies"."total_gross") AS min_id FROM "movies"[0m
+  [1m[35m (0.3ms)[0m  SELECT MIN("movies"."total_gross") AS min_id FROM "movies"
+  [1m[36m (0.2ms)[0m  [1mSELECT MIN("movies"."total_gross") AS min_id FROM "movies"[0m
+  [1m[35mMovie Load (0.4ms)[0m  SELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[35mReview Load (0.3ms)[0m  SELECT "reviews".* FROM "reviews" WHERE ('id')
+  [1m[36mReview Load (0.3ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35m (0.3ms)[0m  SELECT MIN("reviews"."stars") AS min_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.3ms)[0m  [1mSELECT MAX("reviews"."stars") AS max_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mReview Load (0.4ms)[0m  SELECT "reviews".* FROM "reviews" WHERE "reviews"."stars" = 3
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT MIN("reviews"."stars") AS min_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[35m (2.1ms)[0m  SELECT MIN("reviews"."stars") AS min_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."stars" = 1[0m
+  [1m[35mReview Load (0.7ms)[0m  SELECT "reviews".* FROM "reviews" WHERE "reviews"."stars" = 1
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."stars" = 1[0m
+  [1m[35m (0.3ms)[0m  SELECT SUM("reviews"."stars") AS sum_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35m (0.3ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.2ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35m (0.2ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35m (0.3ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36mMovie Load (0.7ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 7]]
+  [1m[36mMovie Load (0.4ms)[0m  [1mSELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1[0m  [["id", 2]]
+  [1m[35m (0.2ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 2]]
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 2]]
+  [1m[35m (0.2ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 2]]
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" DESC LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 7]]
+
+
+Started GET "/movies" for 127.0.0.1 at 2014-07-13 15:39:15 +0200
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.5ms)[0m  SELECT "movies".* FROM "movies" WHERE (released_on <= '2014-07-13 13:39:15.537025') ORDER BY released_on desc
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 7]]
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 6]]
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 5]]
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 3]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 3]]
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 4]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 4]]
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 2]]
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT COUNT(*) FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 2]]
+  Rendered movies/index.html.erb within layouts/application (173.5ms)
+  Rendered layouts/_header.html.erb (6.7ms)
+  Rendered layouts/_flashes.html.erb (0.5ms)
+  Rendered layouts/_sidebar.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 527ms (Views: 482.1ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/assets/placeholder.png" for 127.0.0.1 at 2014-07-13 15:39:16 +0200
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:39:27 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (2.5ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.5ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (15.0ms)
+  Rendered layouts/_header.html.erb (7.7ms)
+  Rendered layouts/_flashes.html.erb (0.2ms)
+  Rendered layouts/_sidebar.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 57ms (Views: 38.9ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/placeholder.png" for 127.0.0.1 at 2014-07-13 15:39:27 +0200
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:40:35 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.2ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (37.9ms)
+Completed 500 Internal Server Error in 86ms
+
+ActionView::Template::Error (undefined method `format_average_stars' for #<#<Class:0xb5f3847c>:0x84d116c>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233_70099840'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.8ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (31.7ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:41:14 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.3ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (12.9ms)
+  Rendered layouts/_header.html.erb (10.1ms)
+  Rendered layouts/_flashes.html.erb (0.7ms)
+  Rendered layouts/_sidebar.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 59ms (Views: 53.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/elements.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/movies.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/buttons.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/movies.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/assets/placeholder.png" for 127.0.0.1 at 2014-07-13 15:41:15 +0200
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:45:49 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (21.1ms)
+Completed 500 Internal Server Error in 74ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<#<Class:0xb5d36fc0>:0xb5d368b8>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__622219398'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (39.6ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (54.7ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:46:01 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.3ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (22.5ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (undefined local variable or method `average_stars' for #<#<Class:0xb5d36fc0>:0x8c8573c>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= average_stars %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233_73693080'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.9ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:46:45 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.2ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (20.9ms)
+Completed 500 Internal Server Error in 27ms
+
+ActionView::Template::Error (undefined local variable or method `format_average_stars' for #<#<Class:0xb5d36fc0>:0xb6307f44>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__619170258'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.1ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:50:00 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (21.9ms)
+Completed 500 Internal Server Error in 72ms
+
+ActionView::Template::Error (undefined method `format_average_stars' for #<#<Class:0xb6106c90>:0xb6105fc0>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.5ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:52:59 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (2.9ms)
+Completed 500 Internal Server Error in 93ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb575ccbc>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/helpers/movies_helper.rb:26:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.9ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:53:02 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (3.4ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb6243554>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/helpers/movies_helper.rb:26:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.2ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:55:01 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 51ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xa296f08>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.8ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:55:05 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (3.3ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb4d90a08>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.6ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 15:58:23 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 52ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb67a9958>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %></3>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620222608'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.5ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:00:51 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered movies/show.html.erb within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb5d85864>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__622019838'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.8ms)
+
+
+Started GET "/movies/2" for 127.0.0.1 at 2014-07-13 16:01:04 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered movies/show.html.erb within layouts/application (3.6ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb575f55c>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__622019838'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (25.5ms)
+
+
+Started GET "/movies/2" for 127.0.0.1 at 2014-07-13 16:01:05 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1[0m  [["id", "2"]]
+  Rendered movies/show.html.erb within layouts/application (3.5ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<Movie:0xb4d9164c>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= format_average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/helpers/reviews_helper.rb:4:in `format_average_stars'
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__622019838'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.3ms)
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[35mMovie Load (0.7ms)[0m  SELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1
+  [1m[36mMovie Load (0.3ms)[0m  [1mSELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1[0m
+  [1m[35mMovie Load (0.6ms)[0m  SELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1
+  [1m[36m (2.4ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mMovie Load (0.6ms)[0m  SELECT "movies".* FROM "movies" ORDER BY "movies"."id" ASC LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:16:14 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.3ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (19.6ms)
+Completed 500 Internal Server Error in 67ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<#<Class:0xb6106510>:0xb6105a70>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620223598'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.2ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:16:22 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (62.5ms)
+Completed 500 Internal Server Error in 72ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<#<Class:0xb6106510>:0xa25fbc0>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620223598'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.1ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:18:46 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.3ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36mReview Load (0.4ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (17.7ms)
+Completed 500 Internal Server Error in 67ms
+
+ActionView::Template::Error (undefined method `average_stars' for #<#<Class:0xb5da4fe8>:0xb5da482c>):
+    10:   </p>
+    11:   <h3>Average Review</h3>
+    12:   <p>
+    13:     <%= average_stars(@movie) %>
+    14:   </p>
+    15:   <h3>Rating: <%= @movie.rating %></h3>
+    16:   <h3>Duration: <%= @movie.duration %> </h3>>
+  app/views/movies/show.html.erb:13:in `_app_views_movies_show_html_erb___518643233__620223598'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.1ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36mReview Load (0.2ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (12.1ms)
+  Rendered layouts/_header.html.erb (6.4ms)
+  Rendered layouts/_flashes.html.erb (0.1ms)
+  Rendered layouts/_sidebar.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 77ms (Views: 73.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/elements.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/movies.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/buttons.css?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/movies.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/placeholder.png" for 127.0.0.1 at 2014-07-13 16:19:05 +0200
+
+
+Started GET "/assets/background.jpg" for 127.0.0.1 at 2014-07-13 16:19:06 +0200
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at 2014-07-13 16:19:06 +0200
+
+
+Started GET "/assets/arrow.png" for 127.0.0.1 at 2014-07-13 16:19:06 +0200
+
+
+Started GET "/assets/add.png" for 127.0.0.1 at 2014-07-13 16:19:06 +0200
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:30:30 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+Completed 500 Internal Server Error in 2ms
+
+SyntaxError (/home/andrew/workspace/ror/traduction/flix/app/models/movie.rb:57: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/movies_controller.rb:7:in `show'
+
+
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /home/andrew/.rvm/gems/ruby-2.0.0-p481/gems/actionpack-4.0.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (21.5ms)
+
+
+Started GET "/movies/1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+Processing by MoviesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies" WHERE "movies"."id" = ? LIMIT 1  [["id", "1"]]
+  [1m[36m (0.3ms)[0m  [1mSELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT AVG("reviews"."stars") AS avg_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36m (0.2ms)[0m  [1mSELECT MAX("reviews"."stars") AS max_id FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  [1m[35mCACHE (0.0ms)[0m  SELECT MAX("reviews"."stars") AS max_id FROM "reviews" WHERE "reviews"."movie_id" = ?  [["movie_id", 1]]
+  [1m[36mReview Load (0.3ms)[0m  [1mSELECT "reviews".* FROM "reviews" WHERE "reviews"."movie_id" = ?[0m  [["movie_id", 1]]
+  Rendered movies/show.html.erb within layouts/application (13.5ms)
+  Rendered layouts/_header.html.erb (6.6ms)
+  Rendered layouts/_flashes.html.erb (0.1ms)
+  Rendered layouts/_sidebar.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 79ms (Views: 31.7ms | ActiveRecord: 2.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/layout.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/elements.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/buttons.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/movies.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/forms.css?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/movies.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/reviews.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+
+
+Started GET "/assets/placeholder.png" for 127.0.0.1 at 2014-07-13 16:31:05 +0200
+  [1m[35mMovie Load (0.5ms)[0m  SELECT "movies".* FROM "movies"

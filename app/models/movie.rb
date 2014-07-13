@@ -48,6 +48,11 @@ has_many :reviews, dependent: :destroy
     total_gross.blank? || total_gross < 50000000
   end
 
+def average_stars
+  reviews.average(:stars)
+end
+def maximum_stars
+  reviews.maximum(:stars)
 
-
+end
 end

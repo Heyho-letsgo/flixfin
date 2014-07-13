@@ -8,10 +8,18 @@
   <p>
     <%= @movie.description %>
   </p>
-  
+  <h3>Average Review</h3>
+  <p>
+    <%= format_average_stars(@movie) %>
+  </p>
+  </p>
+  <h3>Review le plus haut</h3>
+  <p>
+    <%= format_maximum_stars(@movie) %>
+  </p>
+
   <h3>Rating: <%= @movie.rating %></h3>
-  <h3>Duration: <%= @movie.duration %></3>
-<hr>
+  <h3>Duration: <%= @movie.duration %> </h3>>
   <h3>Cast</h3>
   <p>
     <%= @movie.cast %>
@@ -27,7 +35,7 @@
     <%= format_total_gross(@movie) %>
   </p>
 <hr>
-<h3>Reviews</3>
+<h3>Reviews</h3>
 
   <ol id="reviews">
     <% @reviews.each do |review| %>

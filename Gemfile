@@ -45,7 +45,7 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'jazz_hands'
+#gem 'jazz_hands'
 gem "paperclip", "~> 4.1"
 gem 'aws-sdk', '~> 1.47.0'
 

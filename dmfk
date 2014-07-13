@@ -1,0 +1,17 @@
+=> #<Movie:0xb6215a0> {
+                  :id[0;37m => [0m[1;34m1[0m,
+               :title[0;37m => [0m[0;33m"Iron Man"[0m,
+              :rating[0;37m => [0m[0;33m"PG-13"[0m,
+         :total_gross[0;37m => [0m[1;34m318412101.0[0m,
+          :created_at[0;37m => [0m[0;32mMon, 30 Jun 2014 11:37:15 UTC +00:00[0m,
+          :updated_at[0;37m => [0m[0;32mMon, 30 Jun 2014 11:37:15 UTC +00:00[0m,
+         :description[0;37m => [0m[0;33m"When wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil."[0m,
+         :released_on[0;37m => [0m[0;32mFri, 02 May 2008[0m,
+                :cast[0;37m => [0m[0;33m"Robert Downey Jr., Gwyneth Paltrow and Terrence Howard"[0m,
+            :director[0;37m => [0m[0;33m"Jon Favreau"[0m,
+            :duration[0;37m => [0m[0;33m"126 min"[0m,
+     :image_file_name[0;37m => [0m[0;33m"ironman.jpg"[0m,
+  :image_content_type[0;37m => [0m[1;31mnil[0m,
+     :image_file_size[0;37m => [0m[1;31mnil[0m,
+    :image_updated_at[0;37m => [0m[1;31mnil[0m
+}

@@ -21,4 +21,24 @@ module MoviesHelper
      image_tag('placeholder.png')
    end
  end
+
+ def format_average_stars(movie)
+   if movie.average_stars.nil?
+     content_tag(:strong, 'No reviews')
+   else
+     pluralize(movie.average_stars, 'star')
+   end
+ end
+
+ def format_maximum_stars(movie)
+   if movie.maximum_stars.nil?
+     content_tag(:strong, 'No reviews')
+   else
+     pluralize(movie.maximum_stars, 'star')
+   end
+ end
+
+
+
+
 end
