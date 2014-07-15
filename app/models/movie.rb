@@ -51,8 +51,17 @@ has_many :reviews, dependent: :destroy
 def average_stars
   reviews.average(:stars)
 end
+
 def maximum_stars
   reviews.maximum(:stars)
-
 end
+
+def recent_reviews
+  reviews.order('created_at desc').limit(2)
+end
+
+def classic_movie?
+  reviews.count > 1 && average_stars > 1
+  end
+
 end
