@@ -1,0 +1,29 @@
+[33m816c749[m HEAD@{0}: commit: flix fini
+[33mcba5095[m HEAD@{1}: commit: format_average_stars
+[33me4b6692[m HEAD@{2}: commit: rajout de favicon.ico ds dossier public
+[33mc4b1da7[m HEAD@{3}: commit: modif07 lien favicon
+[33m1cc5ba1[m HEAD@{4}: commit: modif06 lien favicon
+[33m2d25be9[m HEAD@{5}: commit: modif lien favicon
+[33mcac90ca[m HEAD@{6}: commit: Rajout favicon
+[33me192f66[m HEAD@{7}: commit: Modif04 suimage -> thumb
+[33m4a31e0d[m HEAD@{8}: commit: Modif03 suimage -> thumb
+[33ma14ede6[m HEAD@{9}: commit: Modif suimage -> small
+[33m3202fa8[m HEAD@{10}: commit: Modif suimage -> thumb
+[33m72075d2[m HEAD@{11}: commit: Modif sur taille image avec imagemagic
+[33mc4396a3[m HEAD@{12}: commit: modification rating et duration dans movie/show
+[33mbf63f8a[m HEAD@{13}: commit: suppression des formulaires review dans movie/show
+[33mf3fc9d0[m HEAD@{14}: commit: Configure Paperclip to use S3 in production
+[33m65613b5[m HEAD@{15}: commit: 10 - Configure Paperclip to use S3 in production
+[33m7fe23e2[m HEAD@{16}: commit: amazon probleme d'existence02
+[33m7b9d31e[m HEAD@{17}: commit: amazon probleme d'existence
+[33m3a9a910[m HEAD@{18}: commit: 02Configure Paperclip to use S3 in production
+[33m8ede0c4[m HEAD@{19}: commit: Configure Paperclip to use S3 in production
+[33m473250b[m HEAD@{20}: commit: Heroku changement side bar
+[33m5204b49[m HEAD@{21}: commit: Heroku poussage ok
+[33mbd26e15[m HEAD@{22}: commit: heroku05
+[33m1f66191[m HEAD@{23}: commit: heroku 04
+[33m7b40442[m HEAD@{24}: commit: tentative upload heroku
+[33m3224f93[m HEAD@{25}: commit: Ready to deploy Version 1.0
+[33m83256d5[m HEAD@{26}: commit: retour en arriere avant deploiement
+[33m1e8aa61[m HEAD@{27}: commit: Avant rajout de paperclip et de aws-sdk
+[33ma90c353[m HEAD@{28}: commit (initial): First commit
